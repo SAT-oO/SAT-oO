@@ -6,7 +6,7 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 - ⚡️ I’m currently working on FreeRTOS thread clocking and syncing live telemetry data to DAQ.<br/>
 - 📈 I’m currently learning data processing and prediction models.<br/>
 - 💡 I’m trying to touch base on my DSA experience from high school.<br/>
-- 🧐 I’m looking for help with Fall 2025 Coop (a good one)! <br/>
+- 🧐 I’m looking for a Fall 2025 Coop (a good one)! <br/>
 - 💬 Reach me at z869liu@uwaterloo.ca!
 
 
