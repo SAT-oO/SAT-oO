@@ -12,10 +12,11 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 
 ### 📊 GitHub Stats:
 <img align = "left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SAT-oO&theme=vue&hide=stars&hide_rank=true&border_color=e4e2e2"/>
-<img align = "left" width="42.5%" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=SAT-oO&theme=vue&border_color=e4e2e2"/>
+
 <p align="left" width="80%">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="169" />
 </p>
+<img alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=SAT-oO&theme=vue&border_color=e4e2e2"/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAT-oO&size_weight=0.5&count_weight=0.5&theme=vue&include_forks=true)<br/> -->
 
