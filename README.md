@@ -11,7 +11,8 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 
 
 ### 📊 GitHub Stats:
-<img align = "left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SAT-oO&theme=vue&hide=stars&hide_rank=true"/>
+<img align = "left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SAT-oO&theme=vue&hide=stars&hide_rank=true&border_color=e4e2e2"/>
+<img align = "left" width="42.5%" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=SAT-oO&theme=vue&border_color=e4e2e2"/>
 <p align="left" width="80%">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="169" />
 </p>
@@ -21,3 +22,4 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
