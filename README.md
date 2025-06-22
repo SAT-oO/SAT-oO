@@ -3,7 +3,11 @@
 I'm Tina, a Mechatronics Engineering undergrad at University of Waterloo.<br/>
 If you don't see me around, I'm probably busy building rockets or hyperfixating over quant finance! Just trying to diversify my experience as much as I would do to my portfolio 🚀 
 
-- ⚡️ I’m currently working on FreeRTOS thread clocking and syncing live telemetry data to DAQ.<br/>- 📈 I’m currently learning data processing and prediction models.<br/>- 💡 I’m trying to touch base on my DSA experience from high school.<br/>- 🧐 I’m looking for help with Fall 2025 Coop (a good one)! <br/>- 💬 Reach me at z869liu@uwaterloo.ca!
+- ⚡️ I’m currently working on FreeRTOS thread clocking and syncing live telemetry data to DAQ.<br/>
+- 📈 I’m currently learning data processing and prediction models.<br/>
+- 💡 I’m trying to touch base on my DSA experience from high school.<br/>
+- 🧐 I’m looking for help with Fall 2025 Coop (a good one)! <br/>
+- 💬 Reach me at z869liu@uwaterloo.ca!
 
 
 ### 📊 GitHub Stats:
