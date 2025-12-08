@@ -11,7 +11,12 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 
 
 ### 📊 GitHub Stats:
-<img align = "left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SAT-oO&theme=vue&hide=stars&hide_rank=true&border_color=e4e2e2"/>
+<!-- <img align = "left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SAT-oO&theme=vue&hide=stars&hide_rank=true&border_color=e4e2e2"/> -->
+![](https://raw.githubusercontent.com/SAT-oO/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SAT-oO/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/SAT-oO/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SAT-oO/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p align="left" width="80%">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="169" />
