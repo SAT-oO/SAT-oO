@@ -6,7 +6,7 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 - ⚡️ I’m currently working on observability features of distributed systems and sounding rocket controller design.<br/>
 - 📈 I’m currently learning blochchain basics and applied math in prep for control theory.<br/>
 - 💡 I’m trying to touch base on my DSA experience from high school.<br/>
-- 🎉 I found a good Fall 2025 Coop! <br/>
+- 🎉 I am looking for a Summer 2026 Coop! <br/>
 - 💬 Reach me at z869liu@uwaterloo.ca!
 
 
