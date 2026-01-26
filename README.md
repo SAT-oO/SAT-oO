@@ -4,7 +4,7 @@ I'm Tina, a Mechatronics Engineering undergrad at University of Waterloo.<br/>
 If you don't see me around, I'm probably busy building rockets or hyperfixating over economics! Just trying to diversify my experience as much as I would do to my portfolio 🚀 
 
 - ⚡️ I’m currently working on observability features of distributed systems and controller firmware design for sounding rockets.<br/>
-- 📈 I’m currently learning blochchain basics and applied math in prep for control theory.<br/>
+- 📈 I’m currently learning blockchain basics and applied math in prep for control theory.<br/>
 - 💡 I’m working on solidifying the fundamental skills of SWE.<br/>
 - 🎉 I am looking for a Summer 2026 Coop! <br/>
 - 💬 Reach me at z869liu@uwaterloo.ca!
