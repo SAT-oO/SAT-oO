@@ -8,5 +8,5 @@ If you don't see me around, I'm probably busy building rockets or hyperfixating 
 - ⚡️ I’m currently working on migrating a containerized workflow to cloud-hosted GPUs and controller firmware for sounding rockets.
 - 📈 I’m currently familiarizing myself with Stable Diffusion models and fine-tuning techniques for image/video generation. 
 - 💡 I’m working on solidifying my understanding for full-cycle product development.
-- 🎉 I have found a Summer 2026 Coop, but I am looking for a Winter 2027 Coop! 
+- 🎉 I am looking for a Winter 2027 Coop! 
 - 💬 Reach me at z869liu@uwaterloo.ca!
