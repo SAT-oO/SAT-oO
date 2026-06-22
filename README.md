@@ -6,7 +6,6 @@ I'm a Mechatronics Engineering undergraduate at the University of Waterloo. I sp
 
 Member of Team **[Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)**—because messy git history is painful. I've also tacked on custom tags like `skills:`, `rules:`, and `automate:` to keep my AI agents properly version-controlled, because we aren't savages.
 
----
 
 🚀 **What I'm up to:**
 * **Infrastructure:** Migrating containerized workflows to cloud-hosted GPU clusters for intensive model execution.
