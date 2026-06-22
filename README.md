@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering undergraduate at the University of Waterloo. I specialize in building low-level firmware, scaling cloud infrastructure, and diving deep into complex technical systems. 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" align="right" />
 
 Member of Team **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** because messy git history is painful. I've also tacked on custom tags like `skills:`, `rules:`, and `automate:` to keep my AI agents properly version-controlled, because we aren't savages.
 
