@@ -1,12 +1,19 @@
-## ✨ About me ✨
+# Hi, I'm Tina 👋
+
+I'm a Mechatronics Engineering undergraduate at the University of Waterloo. I specialize in building low-level firmware, scaling cloud infrastructure, and diving deep into complex technical systems. 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="215" align="right" />
 
-I'm Tina, a Mechatronics Engineering undergrad at University of Waterloo.
-If you don't see me around, I'm probably busy building rockets or hyperfixating over the random topics! Just trying to diversify my experience as much as I would do to my portfolio 🚀 
+Member of Team **[Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)**—because messy git history is painful. I've also tacked on custom tags like `skills:`, `rules:`, and `automate:` to keep my AI agents properly version-controlled, because we aren't savages.
 
-- ⚡️ I’m currently working on migrating a containerized workflow to cloud-hosted GPUs and controller firmware for sounding rockets.
-- 📈 I’m currently familiarizing myself with Stable Diffusion models and fine-tuning techniques for image/video generation. 
-- 💡 I’m working on solidifying my understanding for full-cycle product development.
-- 🎉 I am looking for a Winter 2027 Coop! 
-- 💬 Reach me at z869liu@uwaterloo.ca!
+---
+
+🚀 **What I'm up to:**
+* **Infrastructure:** Migrating containerized workflows to cloud-hosted GPU clusters for intensive model execution.
+* **Firmware:** Developing real-time controller firmware for sounding rockets.
+* **ML:** Researching Stable Diffusion models and fine-tuning techniques for generative image/video pipelines.
+* **Product:** Solidifying my understanding of full-cycle product development from hardware to deployment.
+
+📅 **Looking for Winter 2027 Co-op Opportunities** Building high-performance systems or scaling intelligent infrastructure. 
+
+📫 **Connect with me:** [z869liu@uwaterloo.ca](mailto:z869liu@uwaterloo.ca)
