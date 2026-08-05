@@ -12,6 +12,6 @@ Member of Team **[Conventional Commits](https://www.conventionalcommits.org/en/v
 * **ML:** Building up NN fundamentals and real-time media processing from first principles.
 * **Content Creation:** Developing automated video-creation workflows (and gaining traction!).
 
-📅 **Looking for Winter 2027 Co-op Opportunities** Building high-performance AI systems or scaling infrastructure. 
+📅 **Looking for Winter 2027 Co-op Opportunities** Building high-performance AI systems and scaling infrastructure. 
 
 📫 **Connect with me:** [z869liu@uwaterloo.ca](mailto:z869liu@uwaterloo.ca)
