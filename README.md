@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering undergraduate at the University of Waterloo. I specialize in building low-level firmware, scaling cloud infrastructure, and diving deep into complex technical systems. 
 
-Member of Team **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** because messy git history is painful. I've also tacked on custom tags like `skills:`, `rules:`, and `automate:` to keep my AI tooling version-controlled, because we aren't savages.
+Member of Team **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** because messy git history is painful. I've also tacked on custom tags like `skills:`, `rules:`, and `automate:` to keep my AI tooling version-controlled.
 
 
 🚀 **What I'm up to:**
