@@ -6,9 +6,7 @@ Member of Team **[Conventional Commits](https://www.conventionalcommits.org/en/v
 
 
 🚀 **What I'm up to:**
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhmdzhqNjk0NXAwM3JiaXF1aTIybzJ2bTNoOWdseXd0Zzdvcnl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="215" align="right" />
-
 * **Infrastructure:** Optimizing self-hosted AI model backends to maximize resource utilization.
 * **Firmware:** Doing the final push on sounding rocket controller firmware before launch.
 * **ML:** Building up NN fundamentals and real-time media processing from first principles.
